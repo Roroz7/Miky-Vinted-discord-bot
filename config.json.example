@@ -1,1 +1,13 @@
-
+{
+  "token": "VOTRE_TOKEN_DISCORD_ICI",
+  "prefix": "/",
+  "scraping_interval": 90,
+  "user_agent": "VintedDiscordBot/1.0 (Educational Purpose)",
+  "max_requests_per_minute": 10,
+  "notification_channel_id": null,
+  "log_level": "INFO",
+  "language": "fr",
+  "min_delay_between_requests": 3,
+  "enable_dm_notifications": true,
+  "cache_expiry_hours": 24
+}
